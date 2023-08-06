@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jODcBvpaSwO1UNtbq3tAcPz8BIYdhqXuJoQAkfNXBPEd0h2jVejB5yk49zII38YdpfnnLL20XqPTvWT9sdlVug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vukma\\source\\repos\\ray\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vukma\\.nuget\\packages\\microsoft.toolkit.highperformance\\7.1.2\\microsoft.toolkit.highperformance.7.1.2.nupkg.sha512",
+    "C:\\Users\\vukma\\.nuget\\packages\\raylib-cslo\\4.2.0.9\\raylib-cslo.4.2.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

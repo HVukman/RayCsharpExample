@@ -1,0 +1,12 @@
+C:\Users\vukma\source\repos\ray\ray\bin\Debug\net6.0\ray.deps.json
+C:\Users\vukma\source\repos\ray\ray\bin\Debug\net6.0\ray.dll
+C:\Users\vukma\source\repos\ray\ray\bin\Debug\net6.0\ray.pdb
+C:\Users\vukma\source\repos\ray\ray\obj\Debug\net6.0\ray.csproj.AssemblyReference.cache
+C:\Users\vukma\source\repos\ray\ray\obj\Debug\net6.0\ray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vukma\source\repos\ray\ray\obj\Debug\net6.0\ray.AssemblyInfoInputs.cache
+C:\Users\vukma\source\repos\ray\ray\obj\Debug\net6.0\ray.AssemblyInfo.cs
+C:\Users\vukma\source\repos\ray\ray\obj\Debug\net6.0\ray.csproj.CoreCompileInputs.cache
+C:\Users\vukma\source\repos\ray\ray\obj\Debug\net6.0\ray.dll
+C:\Users\vukma\source\repos\ray\ray\obj\Debug\net6.0\refint\ray.dll
+C:\Users\vukma\source\repos\ray\ray\obj\Debug\net6.0\ray.pdb
+C:\Users\vukma\source\repos\ray\ray\obj\Debug\net6.0\ref\ray.dll
